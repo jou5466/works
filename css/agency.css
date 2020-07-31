@@ -48,7 +48,7 @@ h6 {
   font-family: 'Roboto', '微軟正黑體', 'Microsoft JhengHei', sans-serif;
   text-transform: uppercase;
   font-weight: 500;
-  font-size: 20px;
+  /* font-size: 20px; */
   color: #333;
 }
 .img-centered {
